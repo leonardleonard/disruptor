@@ -162,6 +162,8 @@ public final class BatchEventProcessor<T>
         }
     }
 
+    
+    
     /**
      * Notifies the EventHandler when this processor is starting up
      */
